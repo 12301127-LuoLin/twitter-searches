@@ -2,9 +2,9 @@
 <resources>
 	<string name="app_name">Favorite Web</string>
 	<string name="searchURL">http://</string>
-	<string name="tagPrompt">Tag your query</string>
-	<string name="queryPrompt">Enter Twitter search query here</string>
-	<string name="taggedSearches">Tagged Searches</string>
+	<string name="tagPrompt">Tag your favourite website</string>
+	<string name="queryPrompt">Enter favortie website url here.</string>
+	<string name="taggedSearches">Favorite Website</string>
 	<string name="saveDescription">Touch this button to save your tagged search</string>
 	<string name="shareEditDeleteTitle">Share, Edit or Delete the search tagged as \"%s\"</string>
    <string-array name="dialog_items">
